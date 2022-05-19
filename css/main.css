@@ -150,7 +150,7 @@ p {
 .box-30 {
     float: left;
     width: 30%;
-    height: 300px;
+    height: 400px;
     position: relative;
     margin: 10px;
 
@@ -171,7 +171,7 @@ p {
 }
 
 .firstProject {
-    background-image: url("/img/uss.png");
+    background-image: url("../img/uss.png");
     background-size: cover;
     background-position: center;
 
@@ -179,14 +179,14 @@ p {
 }
 
 .secondProject {
-    background-image: url("/img/zanov.png");
+    background-image: url("../img/zanov.png");
     background-size: cover;
     background-position: center;
 
 }
 
 .thirdProject {
-    background-image: url("/img/tastybox.png");
+    background-image: url("../img/tastybox.png");
     background-size: cover;
     background-position: center;
 
@@ -220,7 +220,7 @@ p {
     width: 100%;
     height: 100vh;
     background-color: #DCDCDC;
-    background-image: url("/img/skills.png");
+    background-image: url("../img/skills.png");
     background-size: cover;
     background-position: center;
     width: 100%;
